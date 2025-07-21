@@ -1,0 +1,6 @@
+@busaoBack_HostAddress = http://localhost:5052
+
+GET {{busaoBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

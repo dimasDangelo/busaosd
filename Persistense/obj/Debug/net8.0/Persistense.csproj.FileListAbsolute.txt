@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\git\busaosd\Persistense\obj\Debug\net8.0\Persistense.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\git\busaosd\Persistense\obj\Debug\net8.0\Persistense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\git\busaosd\Persistense\obj\Debug\net8.0\Persistense.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\git\busaosd\Persistense\obj\Debug\net8.0\Persistense.AssemblyInfo.cs
+C:\Users\Usuario\Documents\git\busaosd\Persistense\obj\Debug\net8.0\Persistense.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\git\busaosd\Persistense\obj\Debug\net8.0\Persistense.sourcelink.json
+C:\Users\Usuario\Documents\git\busaosd\Persistense\bin\Debug\net8.0\Persistense.deps.json
+C:\Users\Usuario\Documents\git\busaosd\Persistense\bin\Debug\net8.0\Persistense.dll
+C:\Users\Usuario\Documents\git\busaosd\Persistense\bin\Debug\net8.0\Persistense.pdb
+C:\Users\Usuario\Documents\git\busaosd\Persistense\obj\Debug\net8.0\Persistense.dll
+C:\Users\Usuario\Documents\git\busaosd\Persistense\obj\Debug\net8.0\refint\Persistense.dll
+C:\Users\Usuario\Documents\git\busaosd\Persistense\obj\Debug\net8.0\Persistense.pdb
+C:\Users\Usuario\Documents\git\busaosd\Persistense\obj\Debug\net8.0\ref\Persistense.dll

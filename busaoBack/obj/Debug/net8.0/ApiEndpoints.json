@@ -1,0 +1,186 @@
+[
+  {
+    "ContainingType": "busaoBack.Controllers.HorariosController",
+    "Method": "GetAll",
+    "RelativePath": "api/Horarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "busaoBack.Controllers.HorariosController",
+    "Method": "Add",
+    "RelativePath": "api/Horarios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "horarios",
+        "Type": "Domain.Horarios_onibus",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "busaoBack.Controllers.HorariosController",
+    "Method": "Update",
+    "RelativePath": "api/Horarios/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "horarios",
+        "Type": "Domain.Horarios_onibus",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "busaoBack.Controllers.HorariosController",
+    "Method": "Delete",
+    "RelativePath": "api/Horarios/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "busaoBack.Controllers.LocaisController",
+    "Method": "Get",
+    "RelativePath": "api/Locais",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "busaoBack.Controllers.LocaisController",
+    "Method": "Add",
+    "RelativePath": "api/Locais",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "local",
+        "Type": "Domain.Locais",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "busaoBack.Controllers.LocaisController",
+    "Method": "Update",
+    "RelativePath": "api/Locais",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "local",
+        "Type": "Domain.Locais",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "busaoBack.Controllers.LocaisController",
+    "Method": "Delete",
+    "RelativePath": "api/Locais/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "busaoBack.Controllers.TipoLocaisController",
+    "Method": "Get",
+    "RelativePath": "api/TipoLocais",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "busaoBack.Controllers.TipoLocaisController",
+    "Method": "Add",
+    "RelativePath": "api/TipoLocais",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "busaoBack.Controllers.TipoLocaisController",
+    "Method": "Update",
+    "RelativePath": "api/TipoLocais",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "busaoBack.Controllers.TipoLocaisController",
+    "Method": "Delete",
+    "RelativePath": "api/TipoLocais/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
